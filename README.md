@@ -15,5 +15,10 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lepofernandes&show_icons=true" />
 </picture>
+<div>
+  <img secset="https://github-readme-stats.vercel.app/api/top-langs/?username=lepofernandes&layout=compact&theme=dracula"/>  
+  
+  
 </div>
+  
 
