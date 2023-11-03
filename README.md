@@ -15,10 +15,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lepofernandes&show_icons=true" />
 </picture>
-<div>
-  <img secset="https://github-readme-stats.vercel.app/api/top-langs/?username=lepofernandes&layout=compact&theme=dracula"/>  
-</div>
-*/
+
 
   <div style="display: flex;">
   <h6>Languages:</h6>
@@ -40,8 +37,8 @@
   
   <h6>Learning:</h6>
   
-  <img height="16" src="https://img.shields.io/badge/NODEJS-%20?style=flat-square&logo=nodejs&logoColor=white&color=811200" />
+<img src= "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TYPESCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=1f053a" height="16" />
-<img height="16" src="https://img.shields.io/badge/REACT-%20?style=flat-square&logo=react&logoColor=white&color=811200" />
+<img height="16" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
