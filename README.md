@@ -39,8 +39,9 @@
  
   
   <h6>Learning:</h6>
-  <!--<img height="16" src="https://img.shields.io/badge/ELIXIR-%20?style=flat-square&logo=elixir&logoColor=white&color=811100" />-->
-  <img height="16" src="https://img.shields.io/badge/RUST-%20?style=flat-square&logo=rust&logoColor=white&color=811200" />
+  
+  <img height="16" src="https://img.shields.io/badge/NODEJS-%20?style=flat-square&logo=nodejs&logoColor=white&color=811200" />
 <img src="https://img.shields.io/badge/TYPESCRIPT-%20?style=flat-square&logo=typescript&logoColor=white&color=1f053a" height="16" />
+<img height="16" src="https://img.shields.io/badge/REACT-%20?style=flat-square&logo=react&logoColor=white&color=811200" />
 </div>
 
