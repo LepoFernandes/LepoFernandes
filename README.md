@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho com front-end
 - 🌱 Estou aprendendo JavaScript
-- 📫 Contate-me: lucasfernandesg@hotmail.com
+- 📫 Contate-me: lcsfernandesg@gmail.com
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=lepofernandes&show_icons=true" />
 </picture>
