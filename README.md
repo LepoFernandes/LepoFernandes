@@ -1,7 +1,7 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho com front-end
-- 🌱 Estou aprendendo JavaScript
+- 🔭 Atualmente trabalho com back-end
+- 🌱 Estou aprendendo C# 
 - 📫 Contate-me: lcsfernandesg@gmail.com
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=lepofernandes&show_icons=true" />
