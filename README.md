@@ -57,7 +57,8 @@
 - **C# – Primeiros Passos: Lógica de Programação e Algoritmos** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-a75773fa-4fff-4425-bf65-0a7b8eb43a8d) 
 - **C# COMPLETO: Programação Orientada a Objetos + Projetos** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-a75773fa-4fff-4425-bf65-0a7b8eb43a8d)  
 - **Banco de Dados SQL do Zero ao Avançado + Projetos Reais** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-cff8fe4e-6165-45da-83ba-c1bdf9ee65c0)  
-- **Curso de JavaScript** (Curso em Vídeo) – Concluído  
+- **Curso de JavaScript** (Curso em Vídeo) – Concluído
+- - **Curso de HTML e CSS** (Curso em Vídeo) – Concluído 
 - **.NET Core: Um curso orientado para o mercado de trabalho** – Em andamento
 
 
