@@ -83,5 +83,6 @@
 ---
 ✨ Sempre em busca de aprender e criar soluções práticas com tecnologia!
 
-![Coding GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
 
