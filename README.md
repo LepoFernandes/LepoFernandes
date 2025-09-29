@@ -39,11 +39,24 @@
 
 ---
 
-## 📚 Cursos & Estudos
+## 📚 Cursos & Certificações
 
-- Engenharia de Software – Estácio (em andamento)  
-- Curso de SQL – do Básico ao Avançado  
-- Estudando **Backend com C# e .NET**
+<div align="center">
+
+![C# - Lógica de Programação e Algoritmos](https://img.shields.io/badge/C%23%20Lógica-%230072C6?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![C# COMPLETO POO + Projetos](https://img.shields.io/badge/C%23%20POO-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Banco de Dados SQL](https://img.shields.io/badge/SQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+
+</div>
+
+- **C# – Primeiros Passos: Lógica de Programação e Algoritmos** – Concluído  
+- **C# COMPLETO: Programação Orientada a Objetos + Projetos** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-a75773fa-4fff-4425-bf65-0a7b8eb43a8d)  
+- **Banco de Dados SQL do Zero ao Avançado + Projetos Reais** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-xxxx)  
+- **Curso de JavaScript** (Curso em Vídeo) – Concluído  
+- **.NET Core: Um curso orientado para o mercado de trabalho** – Em andamento
+
 
 ---
 
