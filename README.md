@@ -1,4 +1,7 @@
-# 👋 Olá, eu sou o Lucas Fernandes
+# 👋 Olá
+
+![Lucas Fernandes Dev](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F&center=true&vCenter=true&width=500&lines=Lucas+Fernandes+%F0%9F%9A%80+Dev+Backend)
+
 
 💻 Estudante de **Engenharia de Software** (Estácio) e apaixonado por tecnologia.  
 🚀 Atualmente focado em me tornar um **desenvolvedor backend em C#**, mas também com experiência prática em projetos de **HTML, CSS, JavaScript** e outras stacks.  
@@ -51,9 +54,9 @@
 
 </div>
 
-- **C# – Primeiros Passos: Lógica de Programação e Algoritmos** – Concluído  
+- **C# – Primeiros Passos: Lógica de Programação e Algoritmos** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-a75773fa-4fff-4425-bf65-0a7b8eb43a8d) 
 - **C# COMPLETO: Programação Orientada a Objetos + Projetos** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-a75773fa-4fff-4425-bf65-0a7b8eb43a8d)  
-- **Banco de Dados SQL do Zero ao Avançado + Projetos Reais** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-xxxx)  
+- **Banco de Dados SQL do Zero ao Avançado + Projetos Reais** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-cff8fe4e-6165-45da-83ba-c1bdf9ee65c0)  
 - **Curso de JavaScript** (Curso em Vídeo) – Concluído  
 - **.NET Core: Um curso orientado para o mercado de trabalho** – Em andamento
 
@@ -79,3 +82,6 @@
 
 ---
 ✨ Sempre em busca de aprender e criar soluções práticas com tecnologia!
+
+![Coding GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
