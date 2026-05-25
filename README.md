@@ -4,7 +4,7 @@
 
 
 💻 Estudante de **Engenharia de Software** (Estácio) e apaixonado por tecnologia.  
-🚀 Atualmente focado em me tornar um **desenvolvedor backend em C#**, mas também com experiência prática em projetos de **HTML, CSS, JavaScript** e outras stacks.  
+🚀 Atualmente focado em me tornar um **desenvolvedor fullstack**, utilizando principalmente **HTML, CSS, JavaScript, TypeScript, React, Node, C#, Express, Banco de Dados** e outras stacks.  
 📊 Tenho background empreendedor no setor de varejo, o que me trouxe habilidades de gestão, organização e comunicação que aplico hoje na área de tecnologia.  
 
 ---
