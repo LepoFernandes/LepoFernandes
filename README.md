@@ -1,11 +1,20 @@
-# 👋 Olá
+# 👋 Olá, eu sou Lucas Fernandes!
 
-![Lucas Fernandes Dev](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F&center=true&vCenter=true&width=500&lines=Lucas+Fernandes+%F0%9F%9A%80+Dev+Backend)
+![Lucas Fernandes Dev](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Lucas+Fernandes+%F0%9F%9A%80+Desenvolvedor+Web;Focado+em+Fullstack+Development;Construindo+soluções+com+React+e+Tecnologia)
 
+💻 Estudante de **Engenharia de Software** e apaixonado por desenvolvimento web.
 
-💻 Estudante de **Engenharia de Software** (Estácio) e apaixonado por tecnologia.  
-🚀 Atualmente focado em me tornar um **desenvolvedor fullstack**, utilizando principalmente **HTML, CSS, JavaScript, TypeScript, React, Node, C#, Express, Banco de Dados** e outras stacks.  
-📊 Tenho background empreendedor no setor de varejo, o que me trouxe habilidades de gestão, organização e comunicação que aplico hoje na área de tecnologia.  
+🚀 Atualmente focado em me tornar um **desenvolvedor fullstack**, criando aplicações modernas utilizando principalmente:
+
+- React
+- JavaScript / TypeScript
+- HTML e CSS
+- Node.js e Express
+- C#
+- .NET
+- Banco de Dados SQL
+
+📊 Minha experiência no setor de varejo me trouxe uma visão prática sobre negócios, organização e resolução de problemas, habilidades que aplico no desenvolvimento de soluções digitais.
 
 ---
 
@@ -13,78 +22,117 @@
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
 ---
 
-## 📂 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-🔹 **[Projeto Barbearia](https://lepofernandes.github.io/Projeto-Barbearia/)**  
-➡️ Site moderno para barbearia, feito com HTML e SASS, incluindo integração com WhatsApp.
+## 🛒 Sistema PDV / Gestão Comercial
 
-🔹 **[Projeto Bar](https://bar-sedenir.vercel.app/)**  
-➡️ Página institucional simples para catálogo de produtos de um bar/mercado.
+Sistema completo de gerenciamento comercial desenvolvido com React, Node.js, Express e MySQL.
 
-🔹 **[Tela de Login Interativa](https://lepofernandes.github.io/Projeto-Login-Interativo/)**  
-➡️ Página dinâmica com animações entre tela de login e cadastro, usando HTML, CSS e JS.
+Principais funcionalidades:
 
-🔹 **[Organizador de Tarefas](https://lepofernandes.github.io/Projeto-Organizador/)**  
-➡️ Aplicação web para gerenciar tarefas, com interface responsiva.
+- Dashboard com indicadores
+- Cadastro de produtos
+- Controle de estoque
+- Sistema de vendas (PDV)
+- Histórico de vendas
+- Organização por categorias
 
-📌 Mais projetos no meu [Portfólio](https://portifolio-lucasf.vercel.app) ou no [GitHub](https://github.com/LepoFernandes).
+🔗 Repositório:
+https://github.com/LepoFernandes/mercado-react
 
 ---
 
-## 📚 Cursos & Certificações
+## ⚽ Draft Liberta
+
+Simulador de futebol inspirado na Libertadores, onde o usuário monta um time histórico através de um sistema de draft estratégico.
+
+Tecnologias:
+
+- React
+- JavaScript
+- CSS
+
+🔗 Projeto:
+https://lepofernandes.github.io/draft-liberta/
+
+🔗 Código:
+https://github.com/LepoFernandes/draft-liberta
+
+---
+
+## 💈 Projeto Barbearia
+
+Landing page moderna para uma barbearia, com foco em design responsivo e experiência do usuário.
+
+Tecnologias:
+
+- HTML
+- CSS/SASS
+- JavaScript
+
+🔗 Projeto:
+https://lepofernandes.github.io/Projeto-Barbearia/
+
+---
+
+# 📚 Cursos & Estudos
+
+- ✅ C# – Lógica de Programação e Algoritmos
+- ✅ C# Completo: Programação Orientada a Objetos + Projetos
+- ✅ Banco de Dados SQL do Zero ao Avançado
+- ✅ HTML e CSS (Curso em Vídeo)
+- ✅ JavaScript (Curso em Vídeo)
+- 🔄 .NET Core orientado ao mercado de trabalho
+- 🔄 TypeScript utilizando React e Express
+- 🔄 Computação em Nuvem (AWS, Azure e Google Cloud)
+
+---
+
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![C# - Lógica de Programação e Algoritmos](https://img.shields.io/badge/C%23%20Lógica-%230072C6?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![C# COMPLETO POO + Projetos](https://img.shields.io/badge/C%23%20POO-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Banco de Dados SQL](https://img.shields.io/badge/SQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LepoFernandes&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LepoFernandes&layout=compact&theme=tokyonight)
 
 </div>
 
-- **C# – Primeiros Passos: Lógica de Programação e Algoritmos** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-a75773fa-4fff-4425-bf65-0a7b8eb43a8d) 
-- **C# COMPLETO: Programação Orientada a Objetos + Projetos** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-a75773fa-4fff-4425-bf65-0a7b8eb43a8d)  
-- **Banco de Dados SQL do Zero ao Avançado + Projetos Reais** – Concluído | [Certificado](https://www.udemy.com/certificate/UC-cff8fe4e-6165-45da-83ba-c1bdf9ee65c0)  
-- **Curso de JavaScript** (Curso em Vídeo) – Concluído
-- **Curso de HTML e CSS** (Curso em Vídeo) – Concluído 
-- **.NET Core: Um curso orientado para o mercado de trabalho** – Em andamento
-- **Curso de TypeScript: Um curso de Typescript usando React e Express** – Em andamento
-
-
 ---
 
-## 📊 Estatísticas do GitHub
+# 🌐 Onde me encontrar
 
 <div align="center">
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LepoFernandes&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LepoFernandes&layout=compact&theme=tokyonight)
+🌎 Portfólio:
+https://portifolio-lucasf.vercel.app
+
+💼 LinkedIn:
+https://www.linkedin.com/in/lucas-fernandesg
+
+🐙 GitHub:
+https://github.com/LepoFernandes
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
-
-🔗 [Portfólio](https://portifolio-lucasf.vercel.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/lucas-fernandesg)  
-📂 [GitHub](https://github.com/LepoFernandes)  
-
----
-✨ Sempre em busca de aprender e criar soluções práticas com tecnologia!
-
-![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4MTVnbmQ5NHBlNzBkdzV5bjNyeHl0anZ4a2E0ejExM3pnZGliNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
+✨ Sempre aprendendo, construindo projetos e buscando transformar ideias em soluções através da tecnologia.
 
 
