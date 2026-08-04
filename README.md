@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Lucas Fernandes!
 
-![Lucas Fernandes Dev](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=600&lines=Lucas+Fernandes+%F0%9F%9A%80+Desenvolvedor+Web;Focado+em+Fullstack+Development;Construindo+soluções+com+React+e+Tecnologia)
+![Lucas Fernandes Dev](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=2563EB&center=true&vCenter=true&width=650&lines=Lucas+Fernandes+%F0%9F%9A%80+Desenvolvedor+Web;Focado+em+Fullstack+Development;Construindo+soluções+com+React+e+Tecnologia)
 
 💻 Estudante de **Engenharia de Software** e apaixonado por desenvolvimento web.
 
