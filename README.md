@@ -99,18 +99,16 @@ https://lepofernandes.github.io/Projeto-Barbearia/
 - ✅ HTML e CSS (Curso em Vídeo)
 - ✅ JavaScript (Curso em Vídeo)
 - 🔄 .NET Core orientado ao mercado de trabalho
-- 🔄 TypeScript utilizando React e Express
-- 🔄 Computação em Nuvem (AWS, Azure e Google Cloud)
-
+- ✅ TypeScript utilizando React e Express
 ---
 
 # 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LepoFernandes&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LepoFernandes&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LepoFernandes&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LepoFernandes&theme=tokyonight)
 
 </div>
 
