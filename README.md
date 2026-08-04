@@ -102,14 +102,6 @@ https://lepofernandes.github.io/Projeto-Barbearia/
 - ✅ TypeScript utilizando React e Express
 ---
 
-<div align="center">
-
-![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4MTVnbmQ5NHBlNzBkdzV5bjNyeHl0anZ4a2E0ejExM3pnZGliNCZlcD12MV9pbnRlcm5uYWxfaWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
-
-</div>
-
----
-
 # 🌐 Onde me encontrar
 
 <div align="center">
@@ -122,6 +114,14 @@ https://www.linkedin.com/in/lucas-fernandesg
 
 🐙 GitHub:
 https://github.com/LepoFernandes
+
+</div>
+
+---
+
+<div align="center">
+
+![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4MTVnbmQ5NHBlNzBkdzV5bjNyeHl0anZ4a2E0ejExM3pnZGliNCZlcD12MV9pbnRlcm5uYWxfaWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
 
 </div>
 
