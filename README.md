@@ -102,13 +102,9 @@ https://lepofernandes.github.io/Projeto-Barbearia/
 - ✅ TypeScript utilizando React e Express
 ---
 
-# 📊 Estatísticas do GitHub
-
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LepoFernandes&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LepoFernandes&theme=tokyonight)
+![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB4MTVnbmQ5NHBlNzBkdzV5bjNyeHl0anZ4a2E0ejExM3pnZGliNCZlcD12MV9pbnRlcm5uYWxfaWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)
 
 </div>
 
